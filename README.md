@@ -5,4 +5,3 @@ Data and analysis used for an Austin American-Statesman [article](https://www.st
 ### Contents
 * `Border_Custody_Arrest_2016-2017.xlsx` Spreadsheet of DPS criminal arrests in the border region, 2016-2017, provided by public information request
 * `analysis.ipynb` Analysis of DPS criminal arrests in the border region
-* `McCraw-Texas-DPS_Testimony_04122018.pdf` April 12, 2018 testimony to the Subcommittee on National Security
